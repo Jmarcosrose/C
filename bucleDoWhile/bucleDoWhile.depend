@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1783823616 source:c:\c\bucledowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+

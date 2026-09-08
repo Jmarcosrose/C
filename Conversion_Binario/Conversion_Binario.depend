@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1783216498 source:c:\c\conversion_binario\main.c
+	<stdio.h>
+	<stdlib.h>
+

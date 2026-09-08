@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1783989179 source:c:\c\sumanumnat\sumanumnat.c
+
+1783989710 source:c:\c\sumanumnat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sumaNumNat.h"
+
+1783989305 c:\c\sumanumnat\sumanumnat.h
+

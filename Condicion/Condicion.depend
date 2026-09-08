@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1782427619 source:c:\c\condicion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1782428617 source:c:\c\condicion\condicion.c
+	<stdio.h>
+
